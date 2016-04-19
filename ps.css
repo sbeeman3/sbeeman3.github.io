@@ -1,0 +1,41 @@
+
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+h2 {
+  color: #669900;
+}
+
+h2 {
+  font-family: helvetica, arial, sans-serif;
+  color: #669900;
+}
+
+body {
+  font-family: helvetica;
+}
+
+header,footer, h2, body {
+  text-align: center;
+}
+
+
+
+.logo {
+    width: 200px;
+    margin-top: 1em;
+  }
+
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+  }
+
+  /* "auto" makes the left and right margins center the wrapper */
+  #wrap {
+  	width: 900px;
+  	margin: 0 auto;
+
+<link href="ps.css" rel="stylesheet" type="text/css" media="screen" />
